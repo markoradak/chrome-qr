@@ -1,11 +1,23 @@
 {
-  "name": "qrcode-extension",
-  "version": "0.1.0",
-  "private": true,
+  "name": "chrome-qr",
+  "version": "1.0.0",
+  "author": "Marko Radak <mail@markoradak.com>",
+  "license": "MIT",
+  "description": "Quickly generate a QR code from the currently open website with this nifty extension designed to fit perfectly with Chrome’s UI.",
+  "keywords": [
+    "chrome",
+    "extension",
+    "qr",
+    "javascript",
+    "react"
+  ],
   "dependencies": {
+    "qrcode.react": "^0.9.3",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "styled-components": "^4.1.3",
+    "styled-reset-advanced": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
