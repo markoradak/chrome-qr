@@ -1,13 +1,11 @@
 <p align="center">
-  <img alt="ChromeQR" src="./docs/cover.png" width="600" />
+  <img alt="ChromeQR" src="./docs/cover.png" width="1000" />
 </p>
 <h1 align="center">
   Chrome QR
 </h1>
 <p align="center">
-  Quickly generate a QR code from the currently 
-  open website with this nifty extension designed
-  to fit perfectly with Chrome’s UI.
+  Quickly generate a QR code from the currently open website with this<br/>nifty extension designed to fit perfectly with Chrome’s UI.
 </p>
 
 ## Why?
