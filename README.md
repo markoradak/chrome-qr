@@ -1,5 +1,7 @@
 <p align="center">
-  <img alt="ChromeQR" src="./docs/cover.png" width="1000" />
+  <a href="https://chrome.google.com/webstore/detail/chrome-qr/knbijmiadgdcdfodaeeapgngekobjbdj" target="_blank">
+    <img alt="ChromeQR" src="./docs/cover.png" width="1000" />
+  </a>
 </p>
 <h1 align="center">
   Chrome QR
